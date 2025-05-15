@@ -11,13 +11,15 @@ function cancel(){
 // Typewriter Effect
 
 const texts = [
-    "BASIC WEB DEVELOPER",
-    "WEB DESIGNER",
-    "PENTESTER",
-    "Computer Repairs Technician"
+    " BASIC WEB DEVELOPER",
+    " Tech Enthusiast",
+    " Cyber Security Enthusiast",
+    " Web Application Penetration Tester",
+    " Network management",
+    " Computer Repairs Technician"
 ]
 
-let speed  =100;
+let speed  =80;
 const textElements = document.querySelector(".typewriter-text");
 
 let textIndex = 0;
