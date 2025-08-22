@@ -55,7 +55,7 @@ Please feel free to fix the repository and submit pull requests. Issues and sugg
 
 ## License
 
-This portfolio is open source and available under the [MIT License](LICENSE.md).
+This portfolio is open source and available under the [MIT License](License.md).
 
 ---
 
